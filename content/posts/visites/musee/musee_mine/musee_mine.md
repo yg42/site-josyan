@@ -13,7 +13,6 @@ tags:
   - Histoire
   - Mine
 # nolastmod: true
-draft: true
 ---
 
 Le Musée de la Mine, situé à Saint-Étienne, est un lieu incontournable pour les passionnés d'histoire industrielle et de patrimoine minier.

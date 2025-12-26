@@ -13,7 +13,6 @@ tags:
   - Sports
   - Football
 # nolastmod: true
-draft: true
 ---
 
 Le Musée des Verts, situé à Saint-Étienne, est un lieu incontournable pour les passionnés de football et d'histoire sportive.

@@ -21,7 +21,6 @@ tags:
   - marche
 # nolastmod: true
 # math: true
-draft: false
 ---
 
 Découvrez les nombreux sentiers balisés pour tous les niveaux, offrant des vues imprenables sur le massif du Pilat et la chaîne du Mont-Blanc. Que vous soyez amateur de promenades tranquilles ou de randonnées plus sportives, vous trouverez ici des itinéraires adaptés à vos envies.

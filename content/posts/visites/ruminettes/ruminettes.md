@@ -17,7 +17,6 @@ tags:
   - Ferme
 # nolastmod: true
 # math: true
-draft: true
 ---
 La ferme des Ruminettes vous invite à découvrir son univers unique où vous pourrez observer et interagir avec une variété d'animaux de la ferme dans un cadre convivial et éducatif.
 

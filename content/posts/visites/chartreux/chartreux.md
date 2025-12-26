@@ -17,7 +17,6 @@ tags:
   - Ferme
 # nolastmod: true
 # math: true
-draft: true
 ---
 
 La ferme des Chartreux vous accueille dans à Sainte-Croix-en-Jarez pour vous offrir une sélection exceptionnelle de fromages artisanaux et de produits laitiers frais. Le village lui-même, niché dans un cadre pittoresque, est parfait pour des balades relaxantes après votre visite à la ferme.

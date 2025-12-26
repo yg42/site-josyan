@@ -16,7 +16,6 @@ tags:
   - Musées
 # nolastmod: true
 # math: true
-draft: true
 ---
 
 Le Musée d'Art Moderne de Saint-Étienne est un lieu incontournable pour les amateurs d'art contemporain.

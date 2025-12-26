@@ -15,6 +15,5 @@ tags:
   - Boucherie
 # nolastmod: true
 # math: true
-draft: true
 ---
 Probablement la meilleure boucherie du coin, [la boucherie Bayle](https://www.boucherie-bayle.com/) à 15 minutes en voiture de votre logement.

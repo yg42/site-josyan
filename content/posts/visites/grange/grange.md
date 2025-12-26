@@ -15,7 +15,6 @@ tags:
   - Fromagerie
 # nolastmod: true
 # math: true
-draft: true
 ---
 
 La fromagerie grange vous accueille en plein cœur de Saint-Martin-la-Plaine pour vous offrir une sélection exceptionnelle de fromages artisanaux et de produits laitiers frais. 

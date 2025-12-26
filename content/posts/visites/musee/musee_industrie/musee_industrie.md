@@ -1,5 +1,5 @@
 ---
-title: Musee_industrie
+title: Musée d'Art et d'Industrie de Saint-Étienne
 date: 2025-12-23T20:51:21+01:00
 lastmod: 2025-12-23T20:51:21+01:00
 author: Author Name
@@ -10,10 +10,9 @@ cover: /img/cover.jpg
 # images:
 #   - /img/cover.jpg
 categories:
-  - category1
+  - Culture
 tags:
-  - tag1
-  - tag2
+  - Musée
 # nolastmod: true
 # math: true
 draft: true

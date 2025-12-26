@@ -1,5 +1,5 @@
 ---
-title: Musee_forge
+title: Musée de la forge
 date: 2025-12-23T12:45:17+01:00
 lastmod: 2025-12-23T12:45:17+01:00
 author: Author Name
@@ -9,16 +9,17 @@ cover: /img/cover.jpg
 # images:
 #   - /img/cover.jpg
 categories:
-  - category1
+  - Culture
 tags:
-  - tag1
-  - tag2
+  - Histoire
+  - Patrimoine
+  - Musée
 # nolastmod: true
 draft: true
 ---
 
-Cut out summary from your post content here.
+todo
 
 <!--more-->
 
-The remaining content of your post.
+todo

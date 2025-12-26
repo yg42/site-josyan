@@ -16,7 +16,6 @@ tags:
   - Supérette
 # nolastmod: true
 # math: true
-draft: true
 ---
 
 Petit commerce de proximité, bien pratique pour dépanner, au coeur de Saint-Martin-la-Plaine.

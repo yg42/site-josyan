@@ -1,5 +1,5 @@
 ---
-title: Confluence
+title: Musée des Confluences
 date: 2025-12-23T20:52:28+01:00
 lastmod: 2025-12-23T20:52:28+01:00
 # avatar: /img/author.jpg
