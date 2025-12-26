@@ -1,5 +1,5 @@
 ---
-title: Vival
+title: Magasin Vival
 date: 2025-12-23T12:44:59+01:00
 lastmod: 2025-12-23T12:44:59+01:00
 

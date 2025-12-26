@@ -1,5 +1,5 @@
 ---
-title: Grange
+title: Fromagerie Grange
 date: 2025-12-23T12:27:21+01:00
 lastmod: 2025-12-23T12:27:21+01:00
 # avatar: /img/author.jpg

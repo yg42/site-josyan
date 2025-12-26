@@ -1,8 +1,7 @@
 ---
-title: Zoo
+title: Zoo de Saint-Martin-la-Plaine
 date: 2025-12-23T20:51:55+01:00
 lastmod: 2025-12-23T20:51:55+01:00
-author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: /images/zoo.jpg

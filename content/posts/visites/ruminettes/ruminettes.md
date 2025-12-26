@@ -1,5 +1,5 @@
 ---
-title: Ruminettes
+title: Ferme des Ruminettes
 date: 2025-12-23T12:34:48+01:00
 lastmod: 2025-12-23T12:34:48+01:00
 # avatar: /img/author.jpg
