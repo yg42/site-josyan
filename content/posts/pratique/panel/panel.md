@@ -15,7 +15,6 @@ tags:
   - Boucherie
 # nolastmod: true
 # math: true
-draft: true
 ---
 
 Privilégiez la Boucherie Panel pour des viandes de qualité et un service convivial, située à seulement 5 minutes à pied de votre logement.

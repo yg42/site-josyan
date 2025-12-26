@@ -13,7 +13,6 @@ tags:
   - Restauration
 # nolastmod: true
 # math: true
-draft: false
 ---
 
 Pizzeria Dany à Rive de Gier (cours Gambetta). 04 77 83 83 74.

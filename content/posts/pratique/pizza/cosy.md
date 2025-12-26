@@ -13,7 +13,6 @@ tags:
   - Restauration
 # nolastmod: true
 # math: true
-draft: false
 ---
 
 Pizza Cosy Rive de Gier, livraison possible.

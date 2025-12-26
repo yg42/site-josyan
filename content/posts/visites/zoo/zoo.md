@@ -16,7 +16,6 @@ tags:
   - Zoo
 # nolastmod: true
 # math: true
-draft: true
 ---
 
 L'Espace Zoologique de Saint-Martin-la-Plaine est un parc animalier situé à proximité de Saint-Étienne, en France. Il est réputé pour son engagement en faveur de la conservation des espèces, notamment les gorilles.

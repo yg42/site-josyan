@@ -16,7 +16,6 @@ tags:
   - Sciences
 # nolastmod: true
 # math: true
-draft: true
 ---
 
 Le Musée Aquarium de Lyon est un lieu incontournable pour les passionnés de la vie aquatique et des écosystèmes marins.

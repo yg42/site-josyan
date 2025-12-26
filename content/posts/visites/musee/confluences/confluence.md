@@ -17,7 +17,6 @@ tags:
   - Musée
 # nolastmod: true
 # math: true
-draft: true
 ---
 
 Situé à la confluence du Rhône et de la Saône, le Musée des Confluences à Lyon est un lieu incontournable pour les passionnés de sciences, d'anthropologie et d'histoire naturelle. Son architecture futuriste impressionne autant que ses expositions captivantes.
