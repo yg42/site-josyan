@@ -1,0 +1,38 @@
+/* Autoriser l'affichage des images dans le contenu */
+.content img,
+.post-content img,
+article img {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+
+.map-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+
+/* IMPORTANT : l’iframe doit recevoir les clics */
+.map-container iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  pointer-events: auto !important;
+  z-index: 2;
+}
+
+/* Au cas où un lien/overlay du thème passe au-dessus */
+.map-container::before,
+.map-container::after {
+  pointer-events: none !important;
+}
+
+.post-content,
+.content,
+article {
+  pointer-events: auto;
+}

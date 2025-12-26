@@ -1,0 +1,22 @@
+baseURL = 'https://josyan.netlify.app'
+languageCode = 'fr-FR'
+title = 'Les Jardins de Josyan'
+theme = "dream"
+
+[params]
+# zenMode = true
+ 
+lightTheme = "emerald"
+darkTheme = "forest"
+ 
+avatar = "static/images/jardins.png"
+
+[params.advanced]
+customCSS = ["css/custom.css"]
+
+[params.navItems]
+series = { href = "/series", icon = "planet", title = "Series" }
+github = { href = "https://github.com/yg42/site-josyan/", target = "_blank", icon = "logo-github", title = "GitHub" }
+
+[markup.goldmark.renderer]
+unsafe = true
