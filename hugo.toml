@@ -9,7 +9,7 @@ theme = "dream"
 lightTheme = "emerald"
 darkTheme = "forest"
  
-avatar = "images/jardins.png"
+avatar = "images/jardins_4_2.png"
 
 [params.advanced]
 customCSS = ["css/custom.css"]
