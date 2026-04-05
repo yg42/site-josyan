@@ -6,11 +6,13 @@ author: Josyan
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: /images/rando.png
+description: "Randonnées et balades au départ de Saint-Martin-la-Plaine : sentiers balisés dans le Pilat, prairies et forêts accessibles en famille ou à VTT."
 # covercaption: a description of the cover image
 images:
    - /images/rando.png
 categories:
   - activités
+  - avec les enfants
 tags:
   - balades
   - promenades
@@ -18,6 +20,9 @@ tags:
   - pilat
   - nature
   - randonnée
+  - sortie en famille
+  - enfants
+  - sentiers balisés
   - marche
 # nolastmod: true
 # math: true

@@ -1,3 +1,29 @@
+/* Image cover affichée en petit dans le contenu des articles */
+#dream-single-post-content > figure:first-child {
+  float: right;
+  width: 220px;
+  margin: 0 0 1rem 1.5rem;
+  clear: right;
+}
+
+#dream-single-post-content > figure:first-child img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+@media (max-width: 640px) {
+  #dream-single-post-content > figure:first-child {
+    float: none;
+    width: 100%;
+    margin: 0 0 1rem 0;
+  }
+  #dream-single-post-content > figure:first-child img {
+    height: 180px;
+  }
+}
+
 /* Autoriser l'affichage des images dans le contenu */
 .content img,
 .post-content img,

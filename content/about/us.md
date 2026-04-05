@@ -1,45 +1,47 @@
 ---
-title: Les Jardins de JOSYAN
+title: Les Jardins de Josyan
 date: 2025-12-23T10:55:00+01:00
 ---
 
-À propos de ce logement
-Voici notre tout nouveau studio Design avec vue PILAT ressemblant à un véritable cocon chaleureux et accueillant, idéal pour votre séjour à St Martin la plaine
+Bienvenue aux **Jardins de Josyan** — une maison de 70 m² sur deux niveaux, à
+Saint-Martin-la-Plaine, entre Lyon et Saint-Étienne. Un logement chaleureux,
+bien équipé, avec une **vue imprenable sur le Pilat et la chaîne du Mont-Blanc**,
+plein sud.
 
-Avec son emplacement central, sa décoration soignée et ses équipements modernes, il constitue le choix parfait pour les voyageurs en quête d'un pied-à-terre confortable en ville.
+## Le logement
 
-Profitez d'un appartement totalement équipé!
+La maison s'organise sur deux niveaux avec trois espaces nuit :
 
+- 2 chambres avec **lit double**
+- 1 chambre avec **canapé-lit**
 
-Vue imprenable sur le pilat et sur la chaine du Mont-Blanc, exposition plein sud.
-Le logement
-Maison joliment décoré de 70 m² sur 2 niveaux .
+La **cuisine est entièrement équipée** : four, réfrigérateur, plaque induction,
+cafetière, bouilloire, lave-linge. La salle de bain dispose d'une douche à l'italienne.
+TV et Wi-Fi inclus.
 
--3 ESPACE NUIT composé comme suit :
-2 chambres équipées d'un lit double confortable .
-1 chambre avec canapé BZ;
+## L'emplacement
 
--Une CUISINE EQUIPEE : Four, réfrigérateur, plaque induction, cafetière , bouilloire + lave linge.
+Saint-Martin-la-Plaine est un village idéalement situé, à mi-chemin entre Lyon (40 min)
+et Saint-Étienne (20 min), à deux pas du Parc Naturel Régional du Pilat.
 
--SALLE DE BAIN avec douche grand confort
+Depuis la maison, à pied :
+- **3 min** — boulangerie, fromagerie, Vival, boucherie
+- **5 min** — départ de sentiers de randonnée balisés
+- **15 min** — Espace Zoologique de Saint-Martin-la-Plaine
 
--Profitez de la TV pour partager un moment convivial
+En voiture :
+- **10 min** — gare TER de Rive-de-Gier (Lyon en 30 min, Saint-Étienne en 15 min)
+- **15 min** — Sainte-Croix-en-Jarez, le Pilat
 
--Bénéficiez de la WIFI GRATUITE
+## Réserver
 
-----------
-Une localisation idéale :
+<div class="airbnb-embed-frame" data-id="1547207124084111439" data-view="home" data-hide-price="true" style="width: 450px; height: 300px; margin: auto;"><a href="https://www.airbnb.fr/rooms/1547207124084111439?guests=1&adults=1&s=66&source=embed_widget">Voir sur Airbnb</a><a href="https://www.airbnb.fr/rooms/1547207124084111439?guests=1&adults=1&s=66&source=embed_widget" rel="nofollow">Hébergement · Saint-Martin-la-Plaine · ★4,64 · 3 chambres · 3 lits · 1&nbsp;salle de bain</a><script async="" src="https://www.airbnb.fr/embeddable/airbnb_jssdk"></script></div>
 
-Située à :
-- 3 minutes à pieds de tous les commerces (boucherie, fromagerie, vival, banques, PMU, ...)
-- 5 minutes à pieds de plusieurs parcours de randonnées
-- 15 minutes à pieds du Zoo de Saint-Martin La Plaine
-- 10 minutes en voiture de la gare TER de Rive-de-Gier
-Accès des voyageurs
-L'accès est très simple : Arrivée autonome via boite à clés.
+## Arrivée
 
-Vous pourrez vous garer facilement devant la maison sur le terrain ( plusieurs voitures)
-Autres remarques
-Le logement est strictement Non fumeur et interdit les fêtes
+L'accès est autonome via boîte à clés. Plusieurs places de stationnement disponibles
+directement devant la maison.
 
-Toutes formes de prostitution ou usage de substances illicites est totalement interdit!
+## À noter
+
+Logement non fumeur. Les animaux de compagnie et les fêtes ne sont pas acceptés.

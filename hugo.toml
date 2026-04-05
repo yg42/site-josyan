@@ -5,18 +5,19 @@ theme = "dream"
 
 [params]
 # zenMode = true
+showSummaryCoverInPost = true
  
 lightTheme = "emerald"
 darkTheme = "forest"
  
 avatar = "images/jardins_4_2.png"
+description = "Les Jardins de Josyan — maison 70 m², vue Pilat et Mont-Blanc, à Saint-Martin-la-Plaine entre Lyon et Saint-Étienne. Activités, visites et bonnes adresses."
 
 [params.advanced]
 customCSS = ["css/custom.css"]
 
 [params.navItems]
-series = { href = "/series", icon = "planet", title = "Series" }
-github = { href = "https://github.com/yg42/site-josyan/", target = "_blank", icon = "logo-github", title = "GitHub" }
+airbnb = { href = "https://www.airbnb.fr/rooms/1547207124084111439", target = "_blank", icon = "home", title = "Réserver sur Airbnb" }
 
 [markup.goldmark.renderer]
 unsafe = true

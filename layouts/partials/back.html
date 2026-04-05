@@ -1,0 +1,24 @@
+<div class="max-w-3xl mx-auto px-4 py-8">
+  {{ with site.GetPage "/about" }}
+  {{ $aboutPages := .Resources.ByType "page" }}
+  {{ range (sort $aboutPages "Date" "asc") }}
+  <article class="card bg-base-100 shadow-xl dark:border dark:border-base-content/30">
+    <div class="card-body">
+      <div class="card-title text-2xl">{{ .Title }}</div>
+      <div class="prose dark:prose-invert max-w-none">
+        {{ .Content | emojify }}
+      </div>
+    </div>
+  </article>
+  {{ end }}
+  {{ end }}
+
+  {{ if (fileExists "data/socials.toml") }}
+  <article class="card bg-base-100 shadow-xl dark:border dark:border-base-content/30 mt-4">
+    <div class="card-body">
+      <div class="card-title">{{ T "socialLinks" }}</div>
+      {{ partialCached "socials.html" . }}
+    </div>
+  </article>
+  {{ end }}
+</div>
