@@ -2,7 +2,7 @@
 title: Musée d'Art Moderne de Saint-Étienne
 date: 2025-12-23T20:53:30+01:00
 lastmod: 2025-12-23T20:53:30+01:00
-author: Author Name
+author: Josyan
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: /images/MAM.jpg

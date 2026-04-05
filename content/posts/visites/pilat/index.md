@@ -3,7 +3,7 @@ title: "Parc Naturel Régional du Pilat"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["pilat", "randonnée", "nature", "parc", "crêt de la perdrix", "sentiers balisés", "forêt", "sortie en famille", "enfants", "auvergne-rhône-alpes"]
-categories: ["Visites", "avec les enfants"]
+categories: ["Visites", "avec les enfants", "Sportif"]
 cover: /images/pilat.jpg
 description: "Le Parc Naturel Régional du Pilat est aux portes de l'appartement : randonnées balisées, crêts panoramiques, forêts de hêtres et vue sur les Alpes."
 ---

@@ -3,7 +3,7 @@ title: "Circuit du Crêt Féchet"
 date: 2025-12-23
 lastmod: 2025-12-23
 tags: ["randonnée", "nature", "pilat", "saint-martin-la-plaine", "sentier balisé", "vue panoramique", "sortie en famille", "enfants", "balade"]
-categories: ["visites", "avec les enfants"]
+categories: ["Visites", "avec les enfants", "Sportif"]
 cover: /images/cret_frechet.jpg
 description: "Circuit du Crêt Féchet au départ de Saint-Martin-la-Plaine : randonnée balisée jusqu'à 630 m, panorama sur les Alpes et la vallée du Rhône."
 ---

@@ -11,8 +11,9 @@ description: "Randonnées et balades au départ de Saint-Martin-la-Plaine : sent
 images:
    - /images/rando.png
 categories:
-  - activités
+  - Visites
   - avec les enfants
+  - Sportif
 tags:
   - balades
   - promenades

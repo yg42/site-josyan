@@ -3,7 +3,7 @@ title: "Steel Bowling — Saint-Étienne"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["bowling", "saint-étienne", "loisirs", "sortie", "sortie en famille", "enfants", "intérieur", "soirée", "loire"]
-categories: ["Sortir", "avec les enfants"]
+categories: ["Sortir", "avec les enfants", "Sportif"]
 cover: /images/bowling.jpg
 description: "Steel Bowling à Saint-Étienne (20 min) : pistes de bowling, restauration et ambiance festive pour toute la famille. Idéal par mauvais temps ou en soirée."
 ---

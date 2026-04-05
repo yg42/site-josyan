@@ -22,11 +22,11 @@ dans une ambiance animée de centre-ville.
 - 📍 Centre-ville de Rive-de-Gier
 - 🗓️ Renseignez-vous sur le jour exact auprès de la mairie ou à votre arrivée
 
-## Marché de Saint-Étienne
+## Marché de Saint-Chamond
 
-Pour un marché plus grand et animé, le **marché Place Carnot** à Saint-Étienne
+Pour un marché plus grand et animé, le **marché Place de la liberté** à Saint-Chamond
 (20 min) est incontournable le **samedi matin**. Grand choix de produits régionaux,
-maraîchers locaux, fromagers et artisans.
+maraîchers locaux, fromagers et artisans. Repérez bien la partie des producteurs locaux. Cherchez Lucien et dites lui d'où vous venez, il est de la famille.
 
 ## Produits locaux à proximité
 

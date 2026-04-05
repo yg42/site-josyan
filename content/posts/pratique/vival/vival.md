@@ -11,7 +11,7 @@ description: "Magasin Vival à Saint-Martin-la-Plaine : supérette de proximité
 # images:
 #   - /img/cover.jpg
 categories:
-  - Utiles
+  - Pratique
 tags:
   - Commerce
   - Supérette

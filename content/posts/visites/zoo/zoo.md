@@ -62,5 +62,4 @@ Poussettes et fauteuils roulants peuvent circuler sur la majorité des allées.
 
 - 📍 **Espace Zoologique** — Saint-Martin-la-Plaine, à pied depuis l'appartement
 - 🕐 Ouvert tous les jours (sauf fermetures exceptionnelles)
-- 💶 Tarif adulte : ~19 € — enfant (3-12 ans) : ~14 €
 - 🔗 [espace-zoologique.com](https://www.espace-zoologique.com/)
