@@ -2,8 +2,8 @@
 title: "Restaurant Domaine des Jardins Suspendus"
 date: 2026-03-29
 lastmod: 2026-03-29
-tags: ["restaurant", "rive-de-gier", "bistronomic", "terrace", "local cuisine", "vallée du gier", "natural setting"]
-categories: ["Going Out"]
+tags: ["restaurant", "rive-de-gier", "bistronomic", "terrace", "local cuisine", "vallée du gier", "natural setting", "jardins suspendus", "domaine des jardins suspendus"]
+categories: ["Restaurant"]
 cover: /images/jardins_suspendus.jpg
 description: "Domaine des Jardins Suspendus in Rive-de-Gier (5 min): creative bistronomic cuisine on a terrace by the Gier river. Rated 4.5/5 on TripAdvisor."
 ---

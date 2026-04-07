@@ -2,8 +2,8 @@
 title: "Restaurant La Pyramide ★★ — Vienne"
 date: 2026-03-29
 lastmod: 2026-03-29
-tags: ["restaurant", "gastronomique", "michelin", "vienne", "isère", "deux-étoiles", "relais-châteaux", "restaurant étoilé", "gastronomie", "rhône"]
-categories: ["Sortir"]
+tags: ["restaurant", "gastronomique", "michelin", "vienne", "isère", "deux-étoiles", "relais-châteaux", "restaurant étoilé", "gastronomie", "rhône", "la pyramide", "pyramide vienne"]
+categories: ["Restaurant"]
 cover: /images/pyramide_vienne.jpg
 description: "La Pyramide à Vienne — 2 étoiles Michelin, Relais & Châteaux. Table mythique fondée en 1822, berceau de la nouvelle cuisine française, à 35 min."
 ---

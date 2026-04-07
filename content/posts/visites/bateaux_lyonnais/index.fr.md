@@ -3,7 +3,7 @@ title: "Les Bateaux Lyonnais — Croisières sur la Saône"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["croisière", "péniche", "saône", "lyon", "bateau", "promenade", "sortie en famille", "enfants", "gastronomie", "auvergne-rhône-alpes"]
-categories: ["Visites", "avec les enfants"]
+categories: ["Culture", "En famille"]
 cover: /images/bateaux_lyonnais.jpg
 description: "Les Bateaux Lyonnais : croisières commentées, déjeuner ou dîner sur la Saône à Lyon, à 45 min. Promenade, gastronomie ou privatisation sur mesure."
 ---

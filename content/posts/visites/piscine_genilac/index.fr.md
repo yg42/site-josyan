@@ -3,7 +3,7 @@ title: "Piscine de Génilac — Centre Nautique André Chazalon"
 date: 2026-04-05
 lastmod: 2026-04-05
 tags: ["piscine", "natation", "toboggan", "génilac", "aquagym", "enfants", "sortie en famille", "pays du gier", "sport"]
-categories: ["Visites", "avec les enfants", "Sportif"]
+categories: ["Sportif", "En famille"]
 cover: /images/piscine.jpg
 description: "La piscine de Génilac est à 5 min de l'appartement : toboggan de 40 m, pataugeoire, sauna et bassin 25 m. Ouverte toute l'année."
 ---

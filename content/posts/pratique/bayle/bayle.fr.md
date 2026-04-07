@@ -10,7 +10,7 @@ description: "Boucherie Bayle, à 15 min de l'appartement : l'une des meilleures
 # images:
 #   - /img/cover.jpg
 categories:
-  - Convivialité
+  - Gastronomie et terroir
 tags:
   - Nourriture
   - Boucherie

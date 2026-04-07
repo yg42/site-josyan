@@ -8,6 +8,7 @@ cover: /images/pizza.jpg
 description: "Pizza Cosy in Rive-de-Gier: freshly made pizzas for takeaway or delivery, 10 min from Saint-Martin-la-Plaine."
 # covercaption: a description of the cover image
 categories:
+  - Practical
   - Local Favourites
 tags:
   - Pizzas

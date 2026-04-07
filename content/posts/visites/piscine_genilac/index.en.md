@@ -3,7 +3,7 @@ title: "Piscine de Génilac — Centre Nautique André Chazalon"
 date: 2026-04-05
 lastmod: 2026-04-05
 tags: ["swimming pool", "swimming", "water slide", "génilac", "aquagym", "children", "family outing", "pays du gier", "sport"]
-categories: ["Sightseeing", "With Children", "Outdoor & Sports"]
+categories: ["Sports", "Family"]
 cover: /images/piscine.jpg
 description: "The Génilac swimming pool is 5 min from the apartment: 40 m water slide, paddling pool, sauna and 25 m pool. Open year-round."
 ---

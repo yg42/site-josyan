@@ -2,8 +2,8 @@
 title: "Restaurant L'Éclosion — Saint-Paul-en-Jarez"
 date: 2026-04-06
 lastmod: 2026-04-06
-tags: ["restaurant", "gastronomique", "saint-paul-en-jarez", "bio", "terroir", "cuisine créative", "château", "vallée du gier", "pilat"]
-categories: ["Sortir"]
+tags: ["restaurant", "gastronomique", "saint-paul-en-jarez", "bio", "terroir", "cuisine créative", "château", "vallée du gier", "pilat", "l'éclosion", "éclosion"]
+categories: ["Restaurant"]
 cover: /images/eclosion.jpg
 description: "L'Éclosion à Saint-Paul-en-Jarez : restaurant gastronomique du chef Pierre Carducci dans un château du XXe siècle. Cuisine inventive et biologique, à 15 min de l'appartement."
 ---

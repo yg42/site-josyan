@@ -3,7 +3,7 @@ title: "La Maison des Forgerons"
 date: 2025-12-23
 lastmod: 2025-12-23
 tags: ["patrimoine", "musée", "histoire", "saint-martin-la-plaine", "forge", "forgerons", "vallée du gier", "patrimoine industriel", "sortie en famille", "enfants"]
-categories: ["visites", "avec les enfants"]
+categories: ["Culture", "En famille"]
 cover: /images/forgerons.png
 description: "La Maison des Forgerons (La Mourine) à Saint-Martin-la-Plaine : musée du patrimoine industriel, atelier de forge reconstitué du XIXe siècle."
 ---

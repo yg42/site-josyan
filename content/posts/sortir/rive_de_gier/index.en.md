@@ -3,7 +3,7 @@ title: "Going Out in Rive-de-Gier"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["restaurant", "rive-de-gier", "outing", "bar", "cinema", "leisure", "vallée du gier", "nearby"]
-categories: ["Going Out"]
+categories: ["Culture"]
 cover: /images/rive_de_gier.jpg
 description: "What to do in Rive-de-Gier, 10 min away? Restaurants, bars, cinema and shops in the town closest to Saint-Martin-la-Plaine."
 ---

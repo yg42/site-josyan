@@ -3,7 +3,7 @@ title: "Espace Eaux Vives du Pilat Rhodanien — Saint-Pierre-de-Bœuf"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["eaux vives", "kayak", "canoë", "rafting", "rhône", "saint-pierre-de-boeuf", "sport nautique", "sortie en famille", "enfants", "nature", "loire", "viarhôna"]
-categories: ["Visites", "avec les enfants", "Sportif"]
+categories: ["Sportif", "En famille"]
 cover: /images/base_nautique.jpg
 description: "Espace Eaux Vives du Pilat Rhodanien à Saint-Pierre-de-Bœuf (45 min) : rafting, kayak, canoë sur rivière artificielle et plan d'eau calme, dès 6 ans."
 ---

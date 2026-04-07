@@ -3,7 +3,7 @@ title: "Canotiers Boat'n Bike — Croisière sur le Rhône à Vienne"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["croisière", "péniche", "rhône", "vienne", "bateau", "vélo", "viarhôna", "sortie en famille", "enfants", "oenotourisme", "nature", "loire", "isère"]
-categories: ["Visites", "avec les enfants"]
+categories: ["Culture", "En famille"]
 cover: /images/canotiers.jpg
 description: "Canotiers Boat'n Bike à Vienne (1h15) : croisière sur le Rhône en catamaran solaire, option combinée bateau + vélo sur la ViaRhôna."
 ---

@@ -3,7 +3,7 @@ title: "Laser Game Evolution — Saint-Étienne"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["laser game", "saint-étienne", "leisure", "outing", "family outing", "children", "indoors", "evening", "loire"]
-categories: ["Going Out", "With Children", "Outdoor & Sports"]
+categories: ["Sports", "Family"]
 cover: /images/lasergame.jpg
 description: "Laser Game Evolution in Saint-Étienne (20 min): modern equipment, suitable for all ages. Open weekends and evenings."
 ---

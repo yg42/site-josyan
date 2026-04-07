@@ -2,8 +2,8 @@
 title: "Château Blanchard ★ — Chazelles-sur-Lyon"
 date: 2026-03-29
 lastmod: 2026-03-29
-tags: ["restaurant", "gastronomique", "michelin", "étoile", "chazelles-sur-lyon", "château", "restaurant étoilé", "gastronomie", "loire"]
-categories: ["Sortir"]
+tags: ["restaurant", "gastronomique", "michelin", "étoile", "chazelles-sur-lyon", "château", "restaurant étoilé", "gastronomie", "loire", "château blanchard", "sylvain roux"]
+categories: ["Restaurant"]
 cover: /images/chateau_blanchard.jpg
 description: "1 étoile Michelin. Château Blanchard à Chazelles-sur-Lyon (30 min) : cuisine gastronomique française du chef Sylvain Roux dans un cadre de château ligérien."
 ---

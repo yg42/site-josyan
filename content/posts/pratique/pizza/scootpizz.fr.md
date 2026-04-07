@@ -5,7 +5,7 @@ lastmod: 2025-12-23
 cover: /images/pizza.jpg
 description: "Scoot'Pizz à Rive-de-Gier : pizzas artisanales à emporter ou en livraison, à 10 min de Saint-Martin-la-Plaine."
 categories:
-  - Convivialité
+  - Pratique
 tags:
   - Pizzas
   - Restauration

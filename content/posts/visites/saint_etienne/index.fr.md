@@ -3,7 +3,7 @@ title: "Saint-Étienne"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["saint-étienne", "ville", "culture", "design", "ASSE", "cité du design", "musée", "patrimoine", "weekend", "loire"]
-categories: ["Visites"]
+categories: ["Culture"]
 cover: /images/saint-etienne.jpg
 description: "Saint-Étienne à 20 min : Cité du Design, MAMC+, musée de la Mine, ASSE… Ville créative au riche patrimoine industriel à explorer en une journée."
 ---

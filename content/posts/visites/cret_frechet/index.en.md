@@ -3,7 +3,7 @@ title: "Crêt Féchet Trail"
 date: 2025-12-23
 lastmod: 2025-12-23
 tags: ["hiking", "nature", "pilat", "saint-martin-la-plaine", "marked trail", "panoramic view", "family outing", "children", "walk"]
-categories: ["Sightseeing", "With Children", "Outdoor & Sports"]
+categories: ["Sports", "Family"]
 cover: /images/cret_frechet.jpg
 description: "Crêt Féchet trail starting from Saint-Martin-la-Plaine: a marked hike up to 630 m, with a panoramic view of the Alps and the Rhône valley."
 ---

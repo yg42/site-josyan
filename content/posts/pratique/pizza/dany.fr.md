@@ -8,7 +8,7 @@ cover: /images/pizza.jpg
 description: "Pizzeria Dany à Rive-de-Gier, cours Gambetta (10 min). Commandes au 04 77 83 83 74. Pizzas fraîches à emporter."
 # covercaption: a description of the cover image
 categories:
-  - Convivialité
+  - Pratique
 tags:
   - Pizzas
   - Restauration

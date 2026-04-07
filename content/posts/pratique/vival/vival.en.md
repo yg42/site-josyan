@@ -12,6 +12,7 @@ description: "Vival convenience store in Saint-Martin-la-Plaine: a local shop fo
 #   - /img/cover.jpg
 categories:
   - Practical
+  - Practical
 tags:
   - Shop
   - Convenience store

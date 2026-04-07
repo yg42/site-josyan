@@ -3,7 +3,7 @@ title: "Le Vaporetto — Navette fluviale sur la Saône"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["croisière", "péniche", "saône", "lyon", "bateau", "promenade", "sortie en famille", "enfants", "apéro", "navette", "auvergne-rhône-alpes"]
-categories: ["Visites", "avec les enfants"]
+categories: ["Culture", "En famille"]
 cover: /images/vaporetto.jpg
 description: "Le Vaporetto de Lyon : navette fluviale sur la Saône, promenade commentée, soirée apéro ou brunch croisière le week-end. Embarquement en plein cœur de Lyon."
 ---

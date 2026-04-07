@@ -3,7 +3,7 @@ title: "CroisiEurope — Week-ends festifs Lyon ↔ Vienne"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["croisière", "péniche", "rhône", "lyon", "vienne", "bateau", "week-end", "soirée", "festif", "auvergne-rhône-alpes", "isère"]
-categories: ["Visites"]
+categories: ["Culture"]
 description: "CroisiEurope : week-ends festifs en bateau sur le Rhône entre Lyon et Vienne. Soirées thématiques années 60, 70, 80… Pension complète à bord."
 ---
 

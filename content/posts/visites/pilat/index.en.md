@@ -3,7 +3,7 @@ title: "Parc Naturel Régional du Pilat"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["pilat", "hiking", "nature", "park", "crêt de la perdrix", "marked trails", "forest", "family outing", "children", "auvergne-rhône-alpes"]
-categories: ["Sightseeing", "With Children", "Outdoor & Sports"]
+categories: ["Sports", "Family"]
 cover: /images/pilat.jpg
 description: "The Parc Naturel Régional du Pilat is right on the doorstep: marked hiking trails, panoramic ridges, beech forests and views over the Alps."
 ---

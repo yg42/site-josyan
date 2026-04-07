@@ -3,7 +3,7 @@ title: "Les Bateaux Lyonnais — Cruises on the Saône"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["cruise", "river boat", "saône", "lyon", "boat", "river trip", "family outing", "children", "gastronomy", "auvergne-rhône-alpes"]
-categories: ["Sightseeing", "With Children"]
+categories: ["Culture", "Family"]
 cover: /images/bateaux_lyonnais.jpg
 description: "Les Bateaux Lyonnais: commented cruises, lunch or dinner on the Saône in Lyon, 45 min away. Sightseeing, gastronomy or private hire on request."
 ---

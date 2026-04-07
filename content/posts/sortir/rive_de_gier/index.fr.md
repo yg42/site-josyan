@@ -3,7 +3,7 @@ title: "Sortir à Rive-de-Gier"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["restaurant", "rive-de-gier", "sortie", "bar", "cinéma", "loisirs", "vallée du gier", "proximité"]
-categories: ["Sortir"]
+categories: ["Culture"]
 cover: /images/rive_de_gier.jpg
 description: "Que faire à Rive-de-Gier, à 10 min ? Restaurants, bars, cinéma et commerces dans la ville la plus proche de Saint-Martin-la-Plaine."
 ---

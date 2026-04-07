@@ -2,8 +2,8 @@
 title: "Auberge de la Jasserie — Le Bessat"
 date: 2026-03-29
 lastmod: 2026-03-29
-tags: ["restaurant", "pilat", "montagne", "auberge", "traditionnel", "le bessat", "cuisine du terroir", "sortie en famille", "enfants"]
-categories: ["Sortir", "avec les enfants"]
+tags: ["restaurant", "pilat", "montagne", "auberge", "traditionnel", "le bessat", "cuisine du terroir", "sortie en famille", "enfants", "la jasserie", "auberge de la jasserie"]
+categories: ["Restaurant", "En famille"]
 cover: /images/jasserie.jpg
 description: "Auberge de la Jasserie au Bessat (Pilat), à 1 300 m d'altitude : cuisine de montagne maison, charcuteries artisanales, myrtilles. Parapente possible."
 ---

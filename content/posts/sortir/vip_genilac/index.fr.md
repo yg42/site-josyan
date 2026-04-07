@@ -2,8 +2,8 @@
 title: "Brasserie VIP — Votre Instant Plaisir, Génilac"
 date: 2026-04-07
 lastmod: 2026-04-07
-tags: ["restaurant", "bar", "brasserie", "génilac", "rive-de-gier", "soirée", "concert", "karaoké", "sortie en famille", "burger", "loire"]
-categories: ["Sortir", "Restaurant"]
+tags: ["restaurant", "bar", "brasserie", "génilac", "rive-de-gier", "soirée", "concert", "karaoké", "sortie en famille", "burger", "loire", "vip génilac", "votre instant plaisir", "le tigre"]
+categories: ["Restaurant"]
 cover: /images/vip.png
 description: "Le VIP à Génilac : brasserie festive avec terrasse, bar de 800 références, drive, livraison et +200 événements/an. Burgers primés au Championnat de France. À 10 min."
 ---

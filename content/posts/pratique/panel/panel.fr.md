@@ -10,7 +10,7 @@ description: "Boucherie Panel à Saint-Martin-la-Plaine : viandes de qualité et
 # images:
 #   - /img/cover.jpg
 categories:
-  - Convivialité
+  - Gastronomie et terroir
 tags:
   - Nourriture
   - Boucherie

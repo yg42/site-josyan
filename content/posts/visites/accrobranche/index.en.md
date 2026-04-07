@@ -3,7 +3,7 @@ title: "France Aventures — Tree Climbing Saint-Jean-Bonnefonds"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["tree climbing", "zip line", "forest", "saint-jean-bonnefonds", "sport", "nature", "family outing", "children", "adventure", "saint-étienne", "loire"]
-categories: ["Sightseeing", "With Children", "Outdoor & Sports"]
+categories: ["Sports", "Family"]
 cover: /images/accrobranche.jpg
 description: "France Aventures in Saint-Jean-Bonnefonds (25 min): tree climbing from age 2, zip lines, forest courses for all ages. Open February to November."
 ---

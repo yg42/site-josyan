@@ -3,7 +3,7 @@ title: "Le Vaporetto — River Shuttle on the Saône"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["cruise", "barge", "saône", "lyon", "boat", "outing", "family outing", "children", "aperitif", "shuttle", "auvergne-rhône-alpes"]
-categories: ["Sightseeing", "With Children"]
+categories: ["Culture", "Family"]
 cover: /images/vaporetto.jpg
 description: "Le Vaporetto in Lyon: river shuttle on the Saône, guided scenic cruise, aperitif evening or brunch cruise at the weekend. Boarding in the heart of Lyon."
 ---

@@ -2,8 +2,8 @@
 title: "Auberge de la Jasserie — Le Bessat"
 date: 2026-03-29
 lastmod: 2026-03-29
-tags: ["restaurant", "pilat", "mountain", "inn", "traditional", "le bessat", "local cuisine", "family outing", "children"]
-categories: ["Going Out", "With Children"]
+tags: ["restaurant", "pilat", "mountain", "inn", "traditional", "le bessat", "local cuisine", "family outing", "children", "la jasserie", "auberge de la jasserie"]
+categories: ["Restaurant", "Family"]
 cover: /images/jasserie.jpg
 description: "Auberge de la Jasserie in Le Bessat (Pilat), at 1,300 m altitude: homemade mountain cuisine, artisan charcuterie, bilberries. Paragliding available."
 ---

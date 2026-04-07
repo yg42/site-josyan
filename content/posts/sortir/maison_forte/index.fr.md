@@ -2,8 +2,8 @@
 title: "La Maison Forte — Farnay"
 date: 2026-03-29
 lastmod: 2026-03-29
-tags: ["restaurant", "gastronomique", "farnay", "gault-millau", "michelin", "gastronomie", "terroir", "loire"]
-categories: ["Sortir"]
+tags: ["restaurant", "gastronomique", "farnay", "gault-millau", "michelin", "gastronomie", "terroir", "loire", "la maison forte", "maison forte", "mickaël marcoux"]
+categories: ["Restaurant"]
 cover: /images/farnay.jpg
 description: "La Maison Forte à Farnay (15 min) : restaurant gastronomique sélectionné Michelin, 13/20 Gault & Millau. Chef Mickaël Marcoux, produits locaux en circuit court."
 ---

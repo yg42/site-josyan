@@ -3,7 +3,7 @@ title: "Markets"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["market", "rive-de-gier", "local produce", "fruit", "vegetables", "saint-étienne", "food", "shopping", "family outing", "children"]
-categories: ["Practical", "With Children"]
+categories: ["Gastronomy & Local Produce"]
 cover: /images/marche.jpg
 description: "Weekly markets around Saint-Martin-la-Plaine: Rive-de-Gier, Saint-Étienne… Fresh produce, cheeses, charcuterie and local specialities."
 ---

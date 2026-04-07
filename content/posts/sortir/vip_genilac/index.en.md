@@ -2,8 +2,8 @@
 title: "Brasserie VIP — Votre Instant Plaisir, Génilac"
 date: 2026-04-07
 lastmod: 2026-04-07
-tags: ["restaurant", "bar", "brasserie", "génilac", "rive-de-gier", "evening", "concert", "karaoke", "family outing", "burger", "loire"]
-categories: ["Going Out", "Restaurant"]
+tags: ["restaurant", "bar", "brasserie", "génilac", "rive-de-gier", "evening", "concert", "karaoke", "family outing", "burger", "loire", "vip génilac", "votre instant plaisir", "le tigre"]
+categories: ["Restaurant"]
 cover: /images/vip.png
 description: "VIP in Génilac: festive brasserie with terrace, 800-reference bar, drive-through, delivery and 200+ events/year. Award-winning burgers at the French Championship. 10 min away."
 ---

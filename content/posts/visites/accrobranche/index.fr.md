@@ -3,7 +3,7 @@ title: "France Aventures — Accrobranche Saint-Jean-Bonnefonds"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["accrobranche", "tyrolienne", "forêt", "saint-jean-bonnefonds", "sport", "nature", "sortie en famille", "enfants", "aventure", "saint-étienne", "loire"]
-categories: ["Visites", "avec les enfants", "Sportif"]
+categories: ["Sportif", "En famille"]
 cover: /images/accrobranche.jpg
 description: "France Aventures à Saint-Jean-Bonnefonds (25 min) : accrobranche dès 2 ans, tyroliennes, parcours en forêt pour petits et grands. Ouvert de février à novembre."
 ---

@@ -3,7 +3,7 @@ title: "Sainte-Croix-en-Jarez"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["sainte-croix-en-jarez", "chartreuse", "village", "heritage", "jarez", "middle ages", "visit", "family outing", "children", "loire"]
-categories: ["Sightseeing", "With Children"]
+categories: ["Culture", "Family"]
 cover: /images/sainte_croix_en_jarez.jpg
 description: "Sainte-Croix-en-Jarez 15 min away: a medieval village built inside a 13th-century charterhouse still inhabited today. A unique historic site in France."
 ---

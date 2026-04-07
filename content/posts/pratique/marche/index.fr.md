@@ -3,7 +3,7 @@ title: "Marchés"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["marché", "rive-de-gier", "produits locaux", "fruits", "légumes", "saint-étienne", "alimentation", "courses", "sortie en famille", "enfants"]
-categories: ["Pratique", "avec les enfants"]
+categories: ["Gastronomie et terroir"]
 cover: /images/marche.jpg
 description: "Marchés hebdomadaires autour de Saint-Martin-la-Plaine : Rive-de-Gier, Saint-Étienne… Produits frais, fromages, charcuteries et spécialités locales."
 ---

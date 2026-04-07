@@ -2,8 +2,8 @@
 title: "Restaurant Le Flamant Rose"
 date: 2026-03-29
 lastmod: 2026-03-29
-tags: ["restaurant", "saint-martin-la-plaine", "gastronomic", "local", "waterside", "local cuisine", "vallée du gier"]
-categories: ["Going Out"]
+tags: ["restaurant", "saint-martin-la-plaine", "gastronomic", "local", "waterside", "local cuisine", "vallée du gier", "le flamant rose", "flamant rose"]
+categories: ["Restaurant"]
 cover: /images/flamant_rose.jpg
 description: "Le Flamant Rose in Saint-Martin-la-Plaine: semi-gastronomic restaurant built on stilts over a 600 m² basin, facing the neighbouring zoo."
 ---

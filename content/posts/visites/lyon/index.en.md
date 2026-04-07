@@ -3,7 +3,7 @@ title: "Lyon"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["lyon", "city", "culture", "gastronomy", "vieux-lyon", "weekend", "tourism", "auvergne-rhône-alpes", "family outing", "children"]
-categories: ["Sightseeing", "With Children"]
+categories: ["Culture", "Family"]
 cover: /images/lyon.jpg
 description: "Lyon 40 min away by TER: UNESCO Vieux-Lyon, world-renowned gastronomy, Musée des Confluences, Fourvière. A day trip an hour from the apartment."
 ---

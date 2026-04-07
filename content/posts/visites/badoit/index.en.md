@@ -3,7 +3,7 @@ title: "Badoit Springs — Saint-Galmier"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["badoit", "saint-galmier", "spring", "sparkling water", "factory tour", "heritage", "family outing", "children", "loire", "green resort"]
-categories: ["Sightseeing", "With Children"]
+categories: ["Culture", "Family"]
 cover: /images/badoit.jpg
 description: "Discover the Badoit Springs in Saint-Galmier (25 min): tour of the factory, a listed Historic Monument, where the sparkling source has been tapped since 1837."
 ---

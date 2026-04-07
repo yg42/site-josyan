@@ -2,8 +2,8 @@
 title: "Brasserie Geoffroy Guichard — la brasserie des Verts"
 date: 2026-04-06
 lastmod: 2026-04-06
-tags: ["restaurant", "brasserie", "saint-étienne", "football", "ASSE", "terroir", "stade", "loire"]
-categories: ["Sortir"]
+tags: ["restaurant", "brasserie", "saint-étienne", "football", "ASSE", "terroir", "stade", "loire", "brasserie geoffroy guichard", "brasserie des verts"]
+categories: ["Restaurant"]
 cover: /images/verts.jpg
 description: "La brasserie des Verts, au cœur du stade Geoffroy-Guichard : cuisine du terroir stéphanois avec vue imprenable sur la pelouse. Un cadre unique à Saint-Étienne."
 ---

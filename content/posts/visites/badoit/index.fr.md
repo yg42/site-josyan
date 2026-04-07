@@ -3,7 +3,7 @@ title: "Sources Badoit — Saint-Galmier"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["badoit", "saint-galmier", "source", "eau pétillante", "visite usine", "patrimoine", "sortie en famille", "enfants", "loire", "station verte"]
-categories: ["Visites", "avec les enfants"]
+categories: ["Culture", "En famille"]
 cover: /images/badoit.jpg
 description: "Découvrez les Sources Badoit à Saint-Galmier (25 min) : visite de l'usine classée Monument Historique, source gazeuse exploitée depuis 1837."
 ---

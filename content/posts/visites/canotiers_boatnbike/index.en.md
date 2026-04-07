@@ -3,7 +3,7 @@ title: "Canotiers Boat'n Bike — Rhône River Cruise in Vienne"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["cruise", "river boat", "rhône", "vienne", "boat", "cycling", "viarhôna", "family outing", "children", "wine tourism", "nature", "loire", "isère"]
-categories: ["Sightseeing", "With Children"]
+categories: ["Culture", "Family"]
 cover: /images/canotiers.jpg
 description: "Canotiers Boat'n Bike in Vienne (1h15): Rhône cruise on a solar-powered catamaran, with an optional combined boat + bike option on the ViaRhôna."
 ---

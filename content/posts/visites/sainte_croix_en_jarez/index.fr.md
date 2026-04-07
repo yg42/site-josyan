@@ -3,7 +3,7 @@ title: "Sainte-Croix-en-Jarez"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["sainte-croix-en-jarez", "chartreuse", "village", "patrimoine", "jarez", "moyen-âge", "visite", "sortie en famille", "enfants", "loire"]
-categories: ["Visites", "avec les enfants"]
+categories: ["Culture", "En famille"]
 cover: /images/sainte_croix_en_jarez.jpg
 description: "Sainte-Croix-en-Jarez à 15 min : village médiéval installé dans une chartreuse du XIIIe siècle encore habitée. Site historique unique en France."
 ---

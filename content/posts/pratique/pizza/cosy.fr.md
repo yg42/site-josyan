@@ -8,7 +8,7 @@ cover: /images/pizza.jpg
 description: "Pizza Cosy à Rive-de-Gier : pizzas fraîches à emporter ou en livraison, à 10 min de Saint-Martin-la-Plaine."
 # covercaption: a description of the cover image
 categories:
-  - Convivialité
+  - Pratique
 tags:
   - Pizzas
   - Restauration

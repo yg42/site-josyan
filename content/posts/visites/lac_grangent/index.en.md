@@ -3,7 +3,7 @@ title: "Lac de Grangent"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["lake", "grangent", "loire", "swimming", "nature", "castle", "kayak", "beach", "cycling", "family outing", "children", "saint-victor-sur-loire"]
-categories: ["Sightseeing", "With Children", "Outdoor & Sports"]
+categories: ["Sports", "Family"]
 cover: /images/lac_grangent.jpg
 description: "Lac de Grangent, 35 min away: swimming, kayak, medieval castle on its island in the Loire gorges. The unmissable outdoor destination."
 ---

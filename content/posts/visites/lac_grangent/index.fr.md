@@ -3,7 +3,7 @@ title: "Lac de Grangent"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["lac", "grangent", "loire", "baignade", "nature", "château", "kayak", "plage", "vélo", "sortie en famille", "enfants", "saint-victor-sur-loire"]
-categories: ["Visites", "avec les enfants", "Sportif"]
+categories: ["Sportif", "En famille"]
 cover: /images/lac_grangent.jpg
 description: "Lac de Grangent à 35 min : baignade, kayak, château médiéval sur son île dans les gorges de la Loire. La destination plein air incontournable."
 ---

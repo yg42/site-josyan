@@ -8,6 +8,7 @@ cover: /images/pizza.jpg
 description: "Pizzeria Dany in Rive-de-Gier, cours Gambetta (10 min). Orders on 04 77 83 83 74. Fresh pizzas for takeaway."
 # covercaption: a description of the cover image
 categories:
+  - Practical
   - Local Favourites
 tags:
   - Pizzas

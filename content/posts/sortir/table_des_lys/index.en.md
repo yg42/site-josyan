@@ -2,8 +2,8 @@
 title: "Restaurant À la Table des Lys — Saint-Étienne"
 date: 2026-03-29
 lastmod: 2026-03-29
-tags: ["restaurant", "gastronomic", "saint-étienne", "michelin", "star", "starred restaurant", "gastronomy", "loire"]
-categories: ["Going Out"]
+tags: ["restaurant", "gastronomic", "saint-étienne", "michelin", "star", "starred restaurant", "gastronomy", "loire", "table des lys", "à la table des lys"]
+categories: ["Restaurant"]
 cover: /images/saint-etienne.jpg
 description: "À la Table des Lys, gastronomic restaurant in Saint-Étienne (20 min). Chef Marc Lecroisey, light and creative French cuisine. Reserved for special occasions."
 ---

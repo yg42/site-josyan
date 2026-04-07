@@ -3,7 +3,7 @@ title: "Lyon"
 date: 2026-03-29
 lastmod: 2026-03-29
 tags: ["lyon", "ville", "culture", "gastronomie", "vieux-lyon", "weekend", "tourisme", "auvergne-rhône-alpes", "sortie en famille", "enfants"]
-categories: ["Visites", "avec les enfants"]
+categories: ["Culture", "En famille"]
 cover: /images/lyon.jpg
 description: "Lyon à 40 min en TER : Vieux-Lyon UNESCO, gastronomie de renom, Musée des Confluences, Fourvière. Une journée à une heure de l'appartement."
 ---

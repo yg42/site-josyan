@@ -3,7 +3,7 @@ title: "CroisiEurope — Festive Weekend Cruises Lyon ↔ Vienne"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["cruise", "river boat", "rhône", "lyon", "vienne", "boat", "weekend", "evening", "festive", "auvergne-rhône-alpes", "isère"]
-categories: ["Sightseeing"]
+categories: ["Culture"]
 description: "CroisiEurope: festive weekend cruises by boat on the Rhône between Lyon and Vienne. Themed evenings — 60s, 70s, 80s… Full board on board."
 ---
 

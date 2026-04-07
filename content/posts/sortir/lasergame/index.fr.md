@@ -3,7 +3,7 @@ title: "Laser Game Evolution — Saint-Étienne"
 date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["laser game", "saint-étienne", "loisirs", "sortie", "sortie en famille", "enfants", "intérieur", "soirée", "loire"]
-categories: ["Sortir", "avec les enfants", "Sportif"]
+categories: ["Sportif", "En famille"]
 cover: /images/lasergame.jpg
 description: "Laser Game Evolution à Saint-Étienne (20 min) : équipements récents, idéal pour tous les âges. Ouvert le week-end et en soirée."
 ---

@@ -2,8 +2,8 @@
 title: "Restaurant La Table des Matrus — Saint-Étienne"
 date: 2026-03-29
 lastmod: 2026-03-29
-tags: ["restaurant", "bistronomic", "saint-étienne", "bib-gourmand", "michelin", "natural-wines", "gastronomy", "natural wines", "loire"]
-categories: ["Going Out"]
+tags: ["restaurant", "bistronomic", "saint-étienne", "bib-gourmand", "michelin", "natural-wines", "gastronomy", "natural wines", "loire", "table des matrus", "la table des matrus"]
+categories: ["Restaurant"]
 cover: /images/saint-etienne.jpg
 description: "La Table des Matrus in Saint-Étienne — Michelin Bib Gourmand 2025. Natural cuisine, natural wines, homemade ferments. Chef Matéo Ravel, 20 min away."
 ---
