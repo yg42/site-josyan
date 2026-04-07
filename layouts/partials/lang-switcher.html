@@ -1,0 +1,30 @@
+{{ if hugo.IsMultilingual }}
+{{ $currentLang := .Language.Lang }}
+<div class="dropdown dropdown-end">
+  <label tabindex="0" class="btn btn-ghost btn-sm gap-1 font-bold uppercase">
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="10"/>
+      <line x1="2" y1="12" x2="22" y2="12"/>
+      <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+    </svg>
+    {{ $currentLang }}
+    <svg class="h-3 w-3 opacity-50" viewBox="0 0 20 20" fill="currentColor">
+      <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd"/>
+    </svg>
+  </label>
+  <ul tabindex="0" class="dropdown-content menu menu-sm bg-base-100 rounded-box shadow-lg border border-base-content/10 w-36 mt-1 p-1 z-50">
+    {{ range site.Languages }}
+    {{ $lang := .Lang }}
+    {{ if eq $lang $currentLang }}
+    <li><span class="font-bold text-primary pointer-events-none">{{ .LanguageName }}</span></li>
+    {{ else }}
+    {{ $url := "/" | relLangURL }}
+    {{ range $.Translations }}
+    {{ if eq .Language.Lang $lang }}{{ $url = .RelPermalink }}{{ end }}
+    {{ end }}
+    <li><a href="{{ $url }}">{{ .LanguageName }}</a></li>
+    {{ end }}
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
