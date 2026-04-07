@@ -4,7 +4,7 @@ date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["whitewater", "kayak", "canoe", "rafting", "rhône", "saint-pierre-de-boeuf", "water sport", "family outing", "children", "nature", "loire", "viarhôna"]
 categories: ["Sightseeing", "With Children", "Outdoor & Sports"]
-cover: https://www.espaceeauxvives.com/app/uploads/2021/05/base.jpg
+cover: /images/base_nautique.jpg
 description: "Espace Eaux Vives du Pilat Rhodanien in Saint-Pierre-de-Bœuf (45 min): rafting, kayak, canoe on an artificial river and calm water, from age 6."
 ---
 

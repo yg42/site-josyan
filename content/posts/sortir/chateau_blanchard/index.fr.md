@@ -22,16 +22,9 @@ sommelier Frédéric Roux, est remarquable.
 
 L'établissement dispose également d'un hôtel pour prolonger l'expérience sur place.
 
-## Les menus
-
-- 💶 Menu Inspiration : **89 € – 112 €** (avec ou sans accords vins)
-- 💶 Menu Carte Blanche : **129 € – 140 €**
-- 💶 Menu enfant : **35 €**
-
 ## Infos pratiques
 
 - 📍 36 route de Saint-Galmier — 42140 Chazelles-sur-Lyon
 - 🚗 ~30 min depuis Saint-Martin-la-Plaine (direction Lyon par l'A47)
-- 🕐 Déj. 12h15–13h20 / Dîner 19h30–20h45 — Fermé dim, lun, mar
 - ☎️ 04 77 54 28 88
 - 🔗 [hotel-chateau-blanchard.com](https://www.hotel-chateau-blanchard.com)

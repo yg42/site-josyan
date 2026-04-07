@@ -30,5 +30,4 @@ en été, départ de randonnées directement depuis la porte.
 
 - 📍 Le Bessat / La Valla-en-Gier — Parc Naturel du Pilat
 - 🚗 ~30 min depuis Saint-Martin-la-Plaine (route de montagne)
-- 💶 Menu adulte : **28 €** — Menu enfant : 11 €
 - 🔗 [lajasserie.com](https://lajasserie.com)

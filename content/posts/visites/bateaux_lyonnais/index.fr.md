@@ -20,14 +20,6 @@ entre l'Île Barbe et la Confluence.
 - **Croisière dîner** — 2h30, départ 20h30
 - **Privatisation** — anniversaires, mariages, séminaires
 
-## Tarifs indicatifs
-
-| Formule | Tarif |
-|---|---|
-| Promenade | 15 €/adulte — 9 €/enfant (3-10 ans) |
-| Déjeuner | à partir de 65 €/pers. |
-| Dîner | à partir de 75 €/pers. |
-
 ## Infos pratiques
 
 - 📍 2 quai des Célestins, Lyon 2e (pied de la passerelle du Palais de Justice)

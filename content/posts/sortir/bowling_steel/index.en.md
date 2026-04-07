@@ -24,5 +24,3 @@ or friends, just **20 minutes** from Saint-Martin-la-Plaine.
 
 - 📍 Saint-Étienne (42)
 - 🚗 **Distance**: about 20 min from Saint-Martin-la-Plaine
-- 🕐 Open days and evenings, 7 days a week
-- 💶 Shoe rental included in lane price

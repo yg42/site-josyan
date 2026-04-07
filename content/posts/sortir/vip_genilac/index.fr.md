@@ -1,9 +1,10 @@
 ---
-title: "VIP — Votre Instant Plaisir, Génilac"
+title: "Brasserie VIP — Votre Instant Plaisir, Génilac"
 date: 2026-04-07
 lastmod: 2026-04-07
 tags: ["restaurant", "bar", "brasserie", "génilac", "rive-de-gier", "soirée", "concert", "karaoké", "sortie en famille", "burger", "loire"]
 categories: ["Sortir", "Restaurant"]
+cover: /images/vip.png
 description: "Le VIP à Génilac : brasserie festive avec terrasse, bar de 800 références, drive, livraison et +200 événements/an. Burgers primés au Championnat de France. À 10 min."
 ---
 
@@ -28,15 +29,6 @@ Cuisine traditionnelle revisitée avec des produits frais et locaux, entièremen
 maison. Spécialités : **burgers primés au Championnat de France du Burger**, tataki de
 bœuf, tapas, planches apéritives, salades, pâtes, ravioles, poissons, viandes et desserts
 maison.
-
-## Horaires
-
-| Jour | Horaires |
-|---|---|
-| Lundi | 10h – 22h |
-| Mardi – Jeudi | 10h – 23h |
-| Vendredi – Samedi | 10h – 3h |
-| Dimanche | 10h – 15h |
 
 ## Infos pratiques
 

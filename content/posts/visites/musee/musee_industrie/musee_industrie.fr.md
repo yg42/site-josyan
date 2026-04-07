@@ -55,5 +55,4 @@ du XIXe siècle, place Louis-Comte. L'architecture elle-même vaut le regard.
 
 - 📍 **Musée d'Art et d'Industrie** — 2 place Louis-Comte, Saint-Étienne
 - 🚗 20 min depuis Saint-Martin-la-Plaine
-- 💶 Adulte : ~6 € — gratuit pour les moins de 18 ans
 - 🔗 [mai.saint-etienne.fr](https://mai.saint-etienne.fr)

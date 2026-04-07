@@ -55,5 +55,4 @@ The museum is housed in the **former Palais des Arts**, a neo-classical
 
 - 📍 **Musée d'Art et d'Industrie** — 2 place Louis-Comte, Saint-Étienne
 - 🚗 20 min from Saint-Martin-la-Plaine
-- 💶 Adult: ~€6 — free for under 18s
 - 🔗 [mai.saint-etienne.fr](https://mai.saint-etienne.fr)

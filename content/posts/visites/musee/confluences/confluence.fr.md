@@ -62,5 +62,4 @@ pendant les vacances scolaires. Compter **2 à 3 heures** minimum pour la visite
 
 - 📍 **Musée des Confluences** — 86 quai Perrache, Lyon 2e
 - 🚗 45 min en voiture / accessible en TER + tramway T1 depuis Lyon
-- 💶 Adulte : ~12 € — gratuit pour les moins de 18 ans
 - 🔗 [museedesconfluences.fr](https://museedesconfluences.fr/fr)

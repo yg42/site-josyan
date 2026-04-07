@@ -23,7 +23,7 @@ Un **catamaran en bois de mélèze** à énergie solaire, 60 passagers, avec ter
 - **Apéro croisière** — balade sur le Rhône avec boissons
 - **Croisière œnologique** — dégustation de vins des Côtes-du-Rhône à bord
 - **Dîner croisière**
-- **Privatisation** à partir de 400 €
+- **Privatisation** — sur demande
 
 
 ## Infos pratiques

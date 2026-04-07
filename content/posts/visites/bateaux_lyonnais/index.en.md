@@ -20,14 +20,6 @@ between the Île Barbe and the Confluence.
 - **Dinner cruise** — 2h30, departure 8:30pm
 - **Private hire** — birthdays, weddings, corporate events
 
-## Approximate prices
-
-| Option | Price |
-|---|---|
-| Sightseeing cruise | 15 €/adult — 9 €/child (3–10 years) |
-| Lunch | from 65 €/person |
-| Dinner | from 75 €/person |
-
 ## Practical info
 
 - 📍 2 quai des Célestins, Lyon 2nd (foot of the Palais de Justice footbridge)

@@ -55,5 +55,4 @@ The visit is **guided and compulsory**, with departures every hour. Duration: ap
 
 - 📍 **Musée de la Mine** — 3 bd Franchet d'Espèrey, Saint-Étienne
 - 🚗 20 min from Saint-Martin-la-Plaine
-- 💶 Adult: ~€8 — child (6–18 years): ~€5
 - 🔗 [musee-mine.saint-etienne.fr](https://musee-mine.saint-etienne.fr/)

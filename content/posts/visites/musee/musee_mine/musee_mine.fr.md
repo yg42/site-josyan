@@ -55,5 +55,4 @@ environ. Prévoir des chaussures fermées. La visite est accessible dès **6-7 a
 
 - 📍 **Musée de la Mine** — 3 bd Franchet d'Espèrey, Saint-Étienne
 - 🚗 20 min depuis Saint-Martin-la-Plaine
-- 💶 Adulte : ~8 € — enfant (6-18 ans) : ~5 €
 - 🔗 [musee-mine.saint-etienne.fr](https://musee-mine.saint-etienne.fr/)

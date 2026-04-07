@@ -25,9 +25,7 @@ is listed as a **Historic Monument**.
 ### Guided factory tour ★
 The flagship visit: a 2-hour immersion behind the scenes of production, from water capture to bottling.
 
-- 🕐 Monday to Friday (advance booking required)
-- 👶 From age 8
-- 💶 7 €/adult — 5 €/child (8–17 years)
+- 👶 From age 8 (advance booking required)
 - 👟 Dress code: closed-toe shoes, trousers, long sleeves
 - 📞 Booking: 06 62 93 49 43 or [saintetiennetourisme.tickeasy.com](https://saintetiennetourisme.tickeasy.com/fr-FR/accueil)
 
@@ -40,8 +38,6 @@ A museum area with free access:
 ### Tapping kiosk
 In a park at the heart of the town, a kiosk lets you **drink and draw the naturally sparkling
 Badoit water free of charge** — a unique experience.
-
-- 🗓️ Open 1 April to 31 October: Mon–Fri 7:30am–6:30pm / Sat 7:30am–12pm
 
 ### Old town and rose garden
 - Stroll through the old town (guided tours available)

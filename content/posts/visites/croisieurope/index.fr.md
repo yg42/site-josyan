@@ -17,13 +17,6 @@ sur le thème des grandes décennies musicales (années 60, 70, 80, disco…).
 - **Week-end festif** — 2 jours / 1 nuit à bord, pension complète, animations et soirées thématiques
 - **Grandes croisières** — itinéraires vers la Provence, l'Ardèche ou la Camargue (7 à 8 jours)
 
-## Tarifs indicatifs
-
-| Formule | Tarif |
-|---|---|
-| Week-end festif (2j/1n) | à partir de 314 €/pers. (pension complète) |
-| Grande croisière (7-8j) | à partir de 880 €/pers. |
-
 ## Infos pratiques
 
 - 📍 Départ : quai Claude Bernard, Lyon (au pied des universités)

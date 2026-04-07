@@ -20,14 +20,6 @@ to the Confluence, with several stops in the heart of Lyon.
 - **Apéritivo** — festive evening every Wednesday, departure at 8 pm
 - **Brunch cruise** — weekend option
 
-## Indicative prices
-
-| Option | Price |
-|---|---|
-| Shuttle | €5/adult — €3/child (5–12 years) — free under 5 |
-| Apéritivo | €34/person |
-| Brunch | €41/person |
-
 ## Practical info
 
 - 📍 Several stops: Vaise, Saint-Paul, Bellecour, Confluence — 1 quai Antoine Riboud, Lyon 2e

@@ -20,16 +20,9 @@ Chef **Mickaël Marcoux**, trained at La Bouitte (3 Michelin stars in Savoie), c
 a French gastronomic menu rooted in local produce and short supply chains.
 Multi-course menus that change with the seasons.
 
-## The menus
-
-- 💶 4-course menu: **58 €**
-- 💶 6-course menu: **78 €**
-- 🍷 Food and wine pairings available
-
 ## Practical info
 
 - 📍 Place de la Maison Forte — 42320 Farnay
 - 🚗 ~15 min from Saint-Martin-la-Plaine (A47, La Grand-Croix exit)
-- 🕐 Dinner: Mon, Thu, Fri, Sat — Lunch: Fri, Sat, Sun
 - 📧 contact@restaurantlamaisonforte.fr
 - 🔗 [restaurantlamaisonforte.fr](https://restaurantlamaisonforte.fr)

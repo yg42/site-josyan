@@ -17,13 +17,6 @@ themed around the great musical decades (60s, 70s, 80s, disco…).
 - **Festive weekend** — 2 days / 1 night on board, full board, entertainment and themed evenings
 - **Long cruises** — itineraries to Provence, Ardèche or the Camargue (7 to 8 days)
 
-## Approximate prices
-
-| Option | Price |
-|---|---|
-| Festive weekend (2d/1n) | from 314 €/person (full board) |
-| Long cruise (7–8 days) | from 880 €/person |
-
 ## Practical info
 
 - 📍 Departure: quai Claude Bernard, Lyon (at the foot of the university district)

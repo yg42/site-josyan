@@ -48,5 +48,4 @@ The museum traces the entire history of the club through:
 
 - 📍 **Musée des Verts** — Stade Geoffroy-Guichard, Saint-Étienne
 - 🚗 20 min from Saint-Martin-la-Plaine
-- 💶 Adult: ~€8 — child: ~€5
 - 🔗 [museedesverts.fr](https://www.museedesverts.fr/)

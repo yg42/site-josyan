@@ -20,14 +20,6 @@ description: "Le Vaporetto de Lyon : navette fluviale sur la Saône, promenade c
 - **Apéritivo** — soirée festive le mercredi soir, départ 20h
 - **Brunch croisière** — formule week-end
 
-## Tarifs indicatifs
-
-| Formule | Tarif |
-|---|---|
-| Navette | 5 €/adulte — 3 €/enfant (5-12 ans) — gratuit -5 ans |
-| Apéritivo | 34 €/pers. |
-| Brunch | 41 €/pers. |
-
 ## Infos pratiques
 
 - 📍 Plusieurs arrêts : Vaise, Saint-Paul, Bellecour, Confluence — 1 quai Antoine Riboud, Lyon 2e

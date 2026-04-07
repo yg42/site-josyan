@@ -24,5 +24,3 @@ en famille ou entre amis, à **20 minutes** de Saint-Martin-la-Plaine.
 
 - 📍 Saint-Étienne (42)
 - 🚗 **Distance** : environ 20 min depuis Saint-Martin-la-Plaine
-- 🕐 Ouvert en journée et en soirée, 7j/7
-- 💶 Location de chaussures incluse dans le tarif piste

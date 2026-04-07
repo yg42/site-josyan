@@ -23,7 +23,7 @@ A **larch wood catamaran** powered by solar energy, 60 passengers, with a deck a
 - **Apéro cruise** — a Rhône trip with drinks
 - **Wine cruise** — tasting of Côtes-du-Rhône wines on board
 - **Dinner cruise**
-- **Private hire** from 400 €
+- **Private hire** — on request
 
 
 ## Practical info

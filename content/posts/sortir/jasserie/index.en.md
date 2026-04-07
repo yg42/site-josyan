@@ -30,5 +30,4 @@ in summer, hiking trails start right from the door.
 
 - 📍 Le Bessat / La Valla-en-Gier — Parc Naturel du Pilat
 - 🚗 ~30 min from Saint-Martin-la-Plaine (mountain road)
-- 💶 Adult menu: **28 €** — Children's menu: 11 €
 - 🔗 [lajasserie.com](https://lajasserie.com)

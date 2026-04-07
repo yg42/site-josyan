@@ -25,9 +25,7 @@ est classée **Monument Historique**.
 ### Visite guidée de l'usine ★
 La visite phare : 2h d'immersion dans les coulisses de la production, de la captage à la mise en bouteille.
 
-- 🕐 Du lundi au vendredi (réservation obligatoire)
-- 👶 À partir de 8 ans
-- 💶 7 €/adulte — 5 €/enfant (8-17 ans)
+- 👶 À partir de 8 ans (réservation obligatoire)
 - 👟 Tenue obligatoire : chaussures fermées, pantalon, manches longues
 - 📞 Réservation : 06 62 93 49 43 ou [saintetiennetourisme.tickeasy.com](https://saintetiennetourisme.tickeasy.com/fr-FR/accueil)
 
@@ -40,8 +38,6 @@ Un espace muséographique en libre accès :
 ### Kiosque de puisage
 Dans un parc au cœur de la ville, un kiosque permet de **boire et puiser gratuitement
 l'eau Badoit naturellement pétillante** — une expérience unique.
-
-- 🗓️ Ouvert du 1er avril au 31 octobre : lun-ven 7h30-18h30 / sam 7h30-12h
 
 ### Vieille ville et roseraie
 - Balade dans la vieille ville (visites guidées disponibles)

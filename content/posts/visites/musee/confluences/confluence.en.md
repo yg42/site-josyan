@@ -62,5 +62,4 @@ during school holidays. Allow **2 to 3 hours** minimum for a complete visit.
 
 - 📍 **Musée des Confluences** — 86 quai Perrache, Lyon 2e
 - 🚗 45 min by car / accessible by TER + tram T1 from Lyon
-- 💶 Adult: ~€12 — free for under 18s
 - 🔗 [museedesconfluences.fr](https://museedesconfluences.fr/fr)

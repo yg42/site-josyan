@@ -21,16 +21,9 @@ Loire Valley produce. The wine list, curated by sommelier Frédéric Roux, is re
 
 The establishment also has a hotel for those wishing to extend their stay.
 
-## The menus
-
-- 💶 Inspiration Menu: **89 € – 112 €** (with or without wine pairings)
-- 💶 Carte Blanche Menu: **129 € – 140 €**
-- 💶 Children's menu: **35 €**
-
 ## Practical info
 
 - 📍 36 route de Saint-Galmier — 42140 Chazelles-sur-Lyon
 - 🚗 ~30 min from Saint-Martin-la-Plaine (towards Lyon via the A47)
-- 🕐 Lunch 12:15–1:20 pm / Dinner 7:30–8:45 pm — Closed Sun, Mon, Tue
 - ☎️ 04 77 54 28 88
 - 🔗 [hotel-chateau-blanchard.com](https://www.hotel-chateau-blanchard.com)

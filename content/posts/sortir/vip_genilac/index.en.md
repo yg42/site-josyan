@@ -1,9 +1,10 @@
 ---
-title: "VIP — Votre Instant Plaisir, Génilac"
+title: "Brasserie VIP — Votre Instant Plaisir, Génilac"
 date: 2026-04-07
 lastmod: 2026-04-07
 tags: ["restaurant", "bar", "brasserie", "génilac", "rive-de-gier", "evening", "concert", "karaoke", "family outing", "burger", "loire"]
 categories: ["Going Out", "Restaurant"]
+cover: /images/vip.png
 description: "VIP in Génilac: festive brasserie with terrace, 800-reference bar, drive-through, delivery and 200+ events/year. Award-winning burgers at the French Championship. 10 min away."
 ---
 
@@ -27,15 +28,6 @@ karaoke evenings, sports screenings and other events.
 Revisited traditional cuisine using fresh, locally-sourced ingredients, entirely homemade.
 Specialities: **burgers awarded at the French Burger Championship**, beef tataki, tapas,
 sharing boards, salads, pasta, ravioli, fish, meats and homemade desserts.
-
-## Opening hours
-
-| Day | Hours |
-|---|---|
-| Monday | 10 am – 10 pm |
-| Tuesday – Thursday | 10 am – 11 pm |
-| Friday – Saturday | 10 am – 3 am |
-| Sunday | 10 am – 3 pm |
 
 ## Practical info
 

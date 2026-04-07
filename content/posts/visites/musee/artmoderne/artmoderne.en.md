@@ -53,5 +53,4 @@ both visits in a single day.
 
 - 📍 **MAMC+** — Rue Fernand Léger, Saint-Étienne
 - 🚗 20 min from Saint-Martin-la-Plaine
-- 💶 Full price: ~€8 — **free on the 1st Sunday of the month**
 - 🔗 [mamc.saint-etienne.fr](https://mamc.saint-etienne.fr/fr)
