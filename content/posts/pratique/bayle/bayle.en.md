@@ -11,7 +11,7 @@ description: "Boucherie Bayle, 15 min from the flat: one of the best butchers in
 #   - /img/cover.jpg
 categories:
   - Gastronomy & Local Produce
-  - Local Favourites
+  - Gastronomy & Local Produce
 tags:
   - Food
   - Butcher

@@ -11,7 +11,7 @@ description: "Boucherie Panel in Saint-Martin-la-Plaine: quality meats and frien
 #   - /img/cover.jpg
 categories:
   - Gastronomy & Local Produce
-  - Local Favourites
+  - Gastronomy & Local Produce
 tags:
   - Food
   - Butcher

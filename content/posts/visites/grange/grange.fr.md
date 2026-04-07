@@ -10,7 +10,7 @@ description: "Fromagerie Grange à Saint-Martin-la-Plaine : fromages artisanaux 
 # images:
 #   - /img/cover.jpg
 categories:
-  - Convivialité
+  - Gastronomie et terroir
 tags:
   - Nourriture
   - Fromagerie

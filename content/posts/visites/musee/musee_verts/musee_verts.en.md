@@ -10,7 +10,7 @@ description: "Musée des Verts in Saint-Étienne (20 min): the history of AS Sai
 #   - /img/cover.jpg
 categories:
   - Culture
-  - With Children
+  - Family
 tags:
   - Sports
   - Football

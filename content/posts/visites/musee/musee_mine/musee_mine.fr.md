@@ -10,7 +10,7 @@ description: "Musée de la Mine de Saint-Étienne (20 min) : plongez dans une mi
 #   - /img/cover.jpg
 categories:
   - Culture
-  - avec les enfants
+  - En famille
 tags:
   - Histoire
   - Mine

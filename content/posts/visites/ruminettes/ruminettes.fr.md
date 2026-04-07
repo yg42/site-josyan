@@ -10,9 +10,8 @@ description: "Ferme des Ruminettes : visite de ferme et fromagerie artisanale à
 # images:
 #   - /img/cover.jpg
 categories:
-  - Activités
-  - Convivialité
-  - avec les enfants
+  - En famille
+  - Gastronomie et Terroir
 tags:
   - Balades
   - Fromagerie

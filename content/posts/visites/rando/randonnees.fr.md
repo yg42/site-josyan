@@ -12,7 +12,7 @@ images:
    - /images/rando.png
 categories:
   - Visites
-  - avec les enfants
+  - En famille
   - Sportif
 tags:
   - balades

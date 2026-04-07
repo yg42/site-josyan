@@ -9,7 +9,7 @@ description: "Pizza Cosy in Rive-de-Gier: freshly made pizzas for takeaway or de
 # covercaption: a description of the cover image
 categories:
   - Practical
-  - Local Favourites
+  - Practical
 tags:
   - Pizzas
   - Dining

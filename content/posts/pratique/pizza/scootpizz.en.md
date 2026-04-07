@@ -6,7 +6,7 @@ cover: /images/pizza.jpg
 description: "Scoot'Pizz in Rive-de-Gier: artisan pizzas for takeaway or delivery, 10 min from Saint-Martin-la-Plaine."
 categories:
   - Practical
-  - Local Favourites
+  - Practical
 tags:
   - Pizzas
   - Dining

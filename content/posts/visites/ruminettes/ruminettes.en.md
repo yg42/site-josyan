@@ -10,9 +10,8 @@ description: "Ferme des Ruminettes: farm and artisan cheese dairy a few minutes 
 # images:
 #   - /img/cover.jpg
 categories:
-  - Activités
-  - Local Favourites
-  - With Children
+  - Family
+  - Gastronomy & Local Produce
 tags:
   - Walks
   - Cheese dairy

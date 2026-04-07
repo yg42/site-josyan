@@ -11,7 +11,7 @@ description: "The Espace Zoologique de Saint-Martin-la-Plaine is just around the
 #   - /img/cover.jpg
 categories:
   - Culture
-  - With Children
+  - Family
 tags:
   - Animals
   - Zoo

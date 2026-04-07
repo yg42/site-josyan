@@ -11,7 +11,7 @@ description: "Musée des Confluences à Lyon (45 min) : sciences, sociétés et 
 #   - /img/cover.jpg
 categories:
   - Culture
-  - avec les enfants
+  - En famille
 tags:
   - Sciences
   - Anthropologie

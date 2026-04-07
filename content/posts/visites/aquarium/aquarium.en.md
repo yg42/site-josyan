@@ -12,7 +12,7 @@ description: "The Lyon Aquarium, 45 min from the apartment, is home to over 300 
 #   - /img/cover.jpg
 categories:
   - Culture
-  - With Children
+  - Family
 tags:
   - Aquariums
   - Science

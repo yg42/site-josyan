@@ -10,8 +10,8 @@ description: "Ferme des Chartreux in Sainte-Croix-en-Jarez (15 min): artisan che
 # images:
 #   - /img/cover.jpg
 categories:
-  - Local Favourites
-  - With Children
+  - Gastronomy & Local Produce
+  - Family
 tags:
   - Food
   - Cheese dairy

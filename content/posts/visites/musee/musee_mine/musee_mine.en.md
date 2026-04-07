@@ -10,7 +10,7 @@ description: "Musée de la Mine in Saint-Étienne (20 min): step into a reconstr
 #   - /img/cover.jpg
 categories:
   - Culture
-  - With Children
+  - Family
 tags:
   - History
   - Mine

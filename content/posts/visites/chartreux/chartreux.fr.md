@@ -10,8 +10,8 @@ description: "Ferme des Chartreux à Sainte-Croix-en-Jarez (15 min) : fromagerie
 # images:
 #   - /img/cover.jpg
 categories:
-  - Convivialité
-  - avec les enfants
+  - Gastronomie et terroir
+  - En famille
 tags:
   - Nourriture
   - Fromagerie

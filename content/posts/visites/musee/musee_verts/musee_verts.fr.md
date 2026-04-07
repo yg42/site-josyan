@@ -10,7 +10,7 @@ description: "Musée des Verts à Saint-Étienne (20 min) : l'histoire de l'AS S
 #   - /img/cover.jpg
 categories:
   - Culture
-  - avec les enfants
+  - En famille
 tags:
   - Sports
   - Football

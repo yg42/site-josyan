@@ -11,7 +11,7 @@ description: "L'Espace Zoologique de Saint-Martin-la-Plaine est à deux pas : go
 #   - /img/cover.jpg
 categories:
   - Culture
-  - avec les enfants
+  - En famille
 tags:
   - Animaux
   - Zoo

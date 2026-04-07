@@ -10,7 +10,7 @@ description: "Fromagerie Grange in Saint-Martin-la-Plaine: artisan cheeses and l
 # images:
 #   - /img/cover.jpg
 categories:
-  - Local Favourites
+  - Gastronomy & Local Produce
 tags:
   - Food
   - Cheese dairy

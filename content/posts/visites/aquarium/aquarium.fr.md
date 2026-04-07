@@ -12,7 +12,7 @@ description: "L'Aquarium de Lyon, à 45 min de l'appartement, abrite plus de 300
 #   - /img/cover.jpg
 categories:
   - Culture
-  - avec les enfants
+  - En famille
 tags:
   - Aquariums
   - Sciences

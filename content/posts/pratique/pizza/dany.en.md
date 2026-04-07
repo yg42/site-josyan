@@ -9,7 +9,7 @@ description: "Pizzeria Dany in Rive-de-Gier, cours Gambetta (10 min). Orders on 
 # covercaption: a description of the cover image
 categories:
   - Practical
-  - Local Favourites
+  - Practical
 tags:
   - Pizzas
   - Dining

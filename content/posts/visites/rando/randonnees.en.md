@@ -12,7 +12,7 @@ images:
    - /images/rando.png
 categories:
   - Sightseeing
-  - With Children
+  - Family
   - Outdoor & Sports
 tags:
   - walks
