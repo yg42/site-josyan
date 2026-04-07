@@ -1,7 +1,20 @@
 baseURL = 'https://josyan.netlify.app'
-languageCode = 'fr-FR'
-title = 'Les Jardins de Josyan'
 theme = "dream"
+
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.fr]
+    languageCode = "fr-FR"
+    languageName = "Français"
+    title = "Les Jardins de Josyan"
+    weight = 1
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    title = "Les Jardins de Josyan"
+    weight = 2
 
 [params]
 # zenMode = true

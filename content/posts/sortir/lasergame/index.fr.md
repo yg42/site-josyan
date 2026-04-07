@@ -4,7 +4,7 @@ date: 2026-03-30
 lastmod: 2026-03-30
 tags: ["laser game", "saint-étienne", "loisirs", "sortie", "sortie en famille", "enfants", "intérieur", "soirée", "loire"]
 categories: ["Sortir", "avec les enfants", "Sportif"]
-cover: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/23/8e/75/des-equipements-lasergame.jpg
+cover: /images/lasergame.jpg
 description: "Laser Game Evolution à Saint-Étienne (20 min) : parties dès 9 €/pers., équipements récents, idéal pour tous les âges. Ouvert le week-end et en soirée."
 ---
 
